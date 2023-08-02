@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/FSDS%20ineuron/algorithms/projects/MLflow-end-to-end-project/mlruns/0/17e5b70dcd84483a8be5e313d25f9958/artifacts
+end_time: 1690997188567
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 17e5b70dcd84483a8be5e313d25f9958
+run_name: likeable-gnu-803
+run_uuid: 17e5b70dcd84483a8be5e313d25f9958
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690997179426
+status: 3
+tags: []
+user_id: hp

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/FSDS%20ineuron/algorithms/projects/MLflow-end-to-end-project/mlruns/0/3b20bd678c1e44e8a72ff60d17287c1e/artifacts
+end_time: 1690997809682
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3b20bd678c1e44e8a72ff60d17287c1e
+run_name: salty-tern-51
+run_uuid: 3b20bd678c1e44e8a72ff60d17287c1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690997800000
+status: 3
+tags: []
+user_id: hp

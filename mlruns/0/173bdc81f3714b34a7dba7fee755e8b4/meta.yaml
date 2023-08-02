@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/FSDS%20ineuron/algorithms/projects/MLflow-end-to-end-project/mlruns/0/173bdc81f3714b34a7dba7fee755e8b4/artifacts
+end_time: 1690997966508
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 173bdc81f3714b34a7dba7fee755e8b4
+run_name: kindly-finch-504
+run_uuid: 173bdc81f3714b34a7dba7fee755e8b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690997956209
+status: 3
+tags: []
+user_id: hp

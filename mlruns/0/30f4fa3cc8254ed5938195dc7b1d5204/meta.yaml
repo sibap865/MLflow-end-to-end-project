@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/FSDS%20ineuron/algorithms/projects/MLflow-end-to-end-project/mlruns/0/30f4fa3cc8254ed5938195dc7b1d5204/artifacts
+end_time: 1690998644968
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 30f4fa3cc8254ed5938195dc7b1d5204
+run_name: welcoming-donkey-207
+run_uuid: 30f4fa3cc8254ed5938195dc7b1d5204
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690998635422
+status: 3
+tags: []
+user_id: hp

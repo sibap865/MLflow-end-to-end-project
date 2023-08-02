@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/FSDS%20ineuron/algorithms/projects/MLflow-end-to-end-project/mlruns/0/f8391ada022f413ead5c68407af8ee02/artifacts
+end_time: 1690996912846
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f8391ada022f413ead5c68407af8ee02
+run_name: abundant-hound-975
+run_uuid: f8391ada022f413ead5c68407af8ee02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690996902008
+status: 3
+tags: []
+user_id: hp
